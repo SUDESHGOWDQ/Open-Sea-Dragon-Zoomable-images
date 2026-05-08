@@ -10,7 +10,7 @@ const App = () => {
 
   return (
     <div>
-      <h2>OpenSeadragon in React</h2>
+      <h2>OpenSeadragon in React JS</h2>
       <OpenSeadragonViewer tileSource={tileSource} />
     </div>
   );
